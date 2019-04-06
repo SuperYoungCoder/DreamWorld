@@ -1,2 +1,2 @@
 # DreamWorld
-This is the world where everything is possible
+This is where everything is possible
